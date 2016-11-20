@@ -2,6 +2,16 @@
 
 These are a collection of [habitat][habitat] snippets for [text-mate][text], or [yasnippet][ya].
 
+# Usage
+
+## emacs
+For emacs with yasnippet, I suggest you create a `~/.emacs.d/snippets/sh-mode` directory
+and place these in there. When working on most of the habitat files, they will be
+in the `sh-mode`.
+
+## text-mate
+
+TODO
 
 ## Contributing
 1. Fork the repository on Github
